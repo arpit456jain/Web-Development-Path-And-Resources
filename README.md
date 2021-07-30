@@ -5,6 +5,7 @@
  - [Git And Github in one Video ](https://www.youtube.com/watch?v=gwWKnnCMQ5c&t=1657s)
  - [Git Tutorial: How to Upload your Projects to Git & GitHub](https://www.youtube.com/watch?v=G14WMD8Kg3U)
  - [Github Profile Readme (Markdown template) | Improve Your Github profiles](https://www.youtube.com/watch?v=LooNWF67jrk)
+ - [Github Profile sample](https://github.com/arpit456jain/arpit456jain)
 
 #  Learn Basics of Html,CSS
 - [W3school Website ](https://www.w3schools.com/html/)
