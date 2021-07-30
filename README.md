@@ -55,4 +55,4 @@ Then, You got here right!!
 - [CodesmashersBlog-In-Django](https://github.com/arpit456jain/CodesmashersBlog-In-Django)
 
 
-show some ❤️&nbsp; by giving the star to this repo and Repos mentioned above
+show some ❤️&nbsp; by giving the ⭐ to this repo and Repos mentioned above
