@@ -1,5 +1,15 @@
 # Web-Development-Path-And-Resources
 
+Are you looking for some good resources 
+
+<p align="center"><img src="https://media.giphy.com/media/Uq4XZx6xm8bdVgrv9T/giphy.gif" width = 40%></p>
+
+Do you want to make web d proejcts🤩
+
+<p align="center"><img src="https://media.giphy.com/media/3oEjI8vagntG7EDxgQ/giphy.gif" width = 40%></p>
+
+Then, You got here right!!
+
 # The First thing you should learn is Git and Gtihub
  - [Git and Github Code With Harry Detailed PlayList ](https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
  - [Git And Github in one Video ](https://www.youtube.com/watch?v=gwWKnnCMQ5c&t=1657s)
