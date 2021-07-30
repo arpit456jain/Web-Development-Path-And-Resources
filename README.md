@@ -22,11 +22,22 @@
 - [Js in one video with Projects in JS](https://www.youtube.com/watch?v=hKB-YGF14SY)
 
 # some Important Repos
-- [Wield the web](https://github.com/arpit456jain/Wield-The-Web)
-- [Debugger-King](https://github.com/arpit456jain/Debugger-King)
-- [CTF](https://github.com/arpit456jain/ctf_main)
+## Front end Related
 - [Cool Front End Templates](https://github.com/arpit456jain/Cool-Front-End_Templates)
 - [Amazing Js projects](https://github.com/arpit456jain/Amazing-Js-Projects)
 - [Amazing Css effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+
+## CES Events website
+- [Wield the web](https://github.com/arpit456jain/Wield-The-Web)
+- [Debugger-King](https://github.com/arpit456jain/Debugger-King)
+- [CTF](https://github.com/arpit456jain/ctf_main)
 - [Chakravyuh](https://github.com/arpit456jain/Chakravyuh)
 - [Matrix](https://github.com/arpit456jain/CES)
+
+## Flask related Projects
+- [CalculatorApp-In-Flask](https://github.com/arpit456jain/CalculatorApp-In-Flask)
+- [CodesmashersBlog-In-Flask](https://github.com/arpit456jain/CodesmashersBlog-In-Flask)
+
+## Django related Projects
+- [ToDoList-in-Django](https://github.com/arpit456jain/ToDoList-in-Django)
+- [StringAnalyzer-In-Django](https://github.com/arpit456jain/StringAnalyzer-In-Django)
