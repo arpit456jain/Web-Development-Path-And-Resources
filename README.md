@@ -62,4 +62,6 @@ Note : If you want to make your first pull request and your are confused You can
 
 ## Best Resource to Learn PHP MYSQL For Backend Development 
 - https://youtube.com/playlist?list=PLwGdqUZWnOp1U4kemcU_vF9KQuHXlNxkb
+<br>
+
 show some ❤️&nbsp; by giving ⭐ to this repo and Repos mentioned above
