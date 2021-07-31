@@ -23,8 +23,9 @@ Note : If you want to make your first pull request and your are confused You can
 - [W3school Website ](https://www.w3schools.com/html/)
 - [Html in one Video (3 hours)](https://www.youtube.com/watch?v=BsDoLVMnmZs)
 - [Css in one video (8 hours)](https://www.youtube.com/watch?v=Edsxf_NBFrw)
-- [HtML,CSS playlist ](https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
+- [Code with Harry playlist ](https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
 - [How To Make Responsive Website Without Using Bootstrap In Simple Html & Css.](https://www.youtube.com/watch?v=q9VvA1Adpr0)
+- [Learn HTML5 and CSS3 From Scratch by FreeCodeCamp](https://www.youtube.com/watch?v=mU6anWqZJcc)
 
 # Learn aboubt Bootstrap for making website responsive
 - [Bootstrap Tutorial for beginners in Hindi](https://www.youtube.com/watch?v=wkSA9bfCmKU&list=PL0b6OzIxLPbz1cgxiH5KCBsyQij1HsPtG&index=1)
@@ -34,6 +35,7 @@ Note : If you want to make your first pull request and your are confused You can
 - [Basics of  Js](https://www.youtube.com/watch?v=cvvwkgp4HBg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL)
 - [Js in one video with Projects in JS](https://www.youtube.com/watch?v=hKB-YGF14SY)
 - [Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=20575s)
+- [30 days of JavaScript](https://javascript30.com/)
 
 # some Important Repos
 ## Front end Related
