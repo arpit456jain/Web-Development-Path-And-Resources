@@ -17,6 +17,8 @@ Then, You got here right!!
  - [Github Profile Readme (Markdown template) | Improve Your Github profiles](https://www.youtube.com/watch?v=LooNWF67jrk)
  - [Github Profile sample](https://github.com/arpit456jain/arpit456jain)
 
+Note : If you want to make your first pyll request and your are confused You can make it on thjis repo , There is a file contibutors , just add your name in that and make PR.
+
 #  Learn Basics of Html,CSS
 - [W3school Website ](https://www.w3schools.com/html/)
 - [Html in one Video (3 hours)](https://www.youtube.com/watch?v=BsDoLVMnmZs)
