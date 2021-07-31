@@ -37,6 +37,9 @@ Note : If you want to make your first pull request and your are confused You can
 - [Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=20575s)
 - [30 days of JavaScript](https://javascript30.com/)
 
+## Best Resource to Learn PHP MYSQL For Backend Development 
+- [PHP MYSQL Tutorial In Hindi by Thapa Technical](https://youtube.com/playlist?list=PLwGdqUZWnOp1U4kemcU_vF9KQuHXlNxkb)
+- 
 # some Important Repos
 ## Front end Related
 - [Cool Front End Templates](https://github.com/arpit456jain/Cool-Front-End_Templates)
@@ -60,8 +63,7 @@ Note : If you want to make your first pull request and your are confused You can
 - [CodesmashersBlog-In-Django](https://github.com/arpit456jain/CodesmashersBlog-In-Django)
 - [pixelvibe](https://github.com/ankitapuri/pixelvibe)
 
-## Best Resource to Learn PHP MYSQL For Backend Development 
-- [PHP MYSQL Tutorial In Hindi by Thapa Technical](https://youtube.com/playlist?list=PLwGdqUZWnOp1U4kemcU_vF9KQuHXlNxkb)
+
 <br>
 
 show some ❤️&nbsp; by giving ⭐ to this repo and Repos mentioned above
