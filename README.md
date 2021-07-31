@@ -31,6 +31,7 @@ Then, You got here right!!
 # Learn JavaScript
 - [Basics of  Js](https://www.youtube.com/watch?v=cvvwkgp4HBg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL)
 - [Js in one video with Projects in JS](https://www.youtube.com/watch?v=hKB-YGF14SY)
+- [Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=20575s)
 
 # some Important Repos
 ## Front end Related
