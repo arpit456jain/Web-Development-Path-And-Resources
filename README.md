@@ -57,4 +57,4 @@ Then, You got here right!!
 - [pixelvibe](https://github.com/ankitapuri/pixelvibe)
 
 
-show some ❤️&nbsp; by giving the ⭐ to this repo and Repos mentioned above
+show some ❤️&nbsp; by giving ⭐ to this repo and Repos mentioned above
