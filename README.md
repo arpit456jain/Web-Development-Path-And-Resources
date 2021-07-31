@@ -54,6 +54,7 @@ Then, You got here right!!
 - [ToDoList-in-Django](https://github.com/arpit456jain/ToDoList-in-Django)
 - [StringAnalyzer-In-Django](https://github.com/arpit456jain/StringAnalyzer-In-Django)
 - [CodesmashersBlog-In-Django](https://github.com/arpit456jain/CodesmashersBlog-In-Django)
+- [pixelvibe](https://github.com/ankitapuri/pixelvibe)
 
 
 show some ❤️&nbsp; by giving the ⭐ to this repo and Repos mentioned above
