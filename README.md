@@ -19,7 +19,7 @@ Then, You got here right!!
 
 Note : If you want to make your first pull request and your are confused You can make it on this repo . There is a file named contibutors.md , just add your name in that and make PR.
 
-#  Learn Basics of Html,CSS
+#  Learn Basics of HTML,CSS
 - [W3school Website ](https://www.w3schools.com/html/)
 - [Html in one Video (3 hours)](https://www.youtube.com/watch?v=BsDoLVMnmZs)
 - [Css in one video (8 hours)](https://www.youtube.com/watch?v=Edsxf_NBFrw)
@@ -27,7 +27,7 @@ Note : If you want to make your first pull request and your are confused You can
 - [How To Make Responsive Website Without Using Bootstrap In Simple Html & Css.](https://www.youtube.com/watch?v=q9VvA1Adpr0)
 - [Learn HTML5 and CSS3 From Scratch by FreeCodeCamp](https://www.youtube.com/watch?v=mU6anWqZJcc)
 
-# Learn aboubt Bootstrap for making website responsive
+# Learn about Bootstrap for making website responsive
 - [Bootstrap Tutorial for beginners in Hindi](https://www.youtube.com/watch?v=wkSA9bfCmKU&list=PL0b6OzIxLPbz1cgxiH5KCBsyQij1HsPtG&index=1)
 - [Basics of Bootstrap in one video ](https://www.youtube.com/watch?v=QE5oQh63gGE)
 
@@ -39,7 +39,7 @@ Note : If you want to make your first pull request and your are confused You can
 
 ## Best Resource to Learn PHP MYSQL For Backend Development 
 - [PHP MYSQL Tutorial In Hindi by Thapa Technical](https://youtube.com/playlist?list=PLwGdqUZWnOp1U4kemcU_vF9KQuHXlNxkb)
-- 
+
 # some Important Repos
 ## Front end Related
 - [Cool Front End Templates](https://github.com/arpit456jain/Cool-Front-End_Templates)
