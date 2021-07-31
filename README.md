@@ -19,8 +19,8 @@ Then, You got here right!!
 
 #  Learn Basics of Html,CSS
 - [W3school Website ](https://www.w3schools.com/html/)
-- [Html in one Video](https://www.youtube.com/watch?v=BsDoLVMnmZs)
-- [Css in one video ](https://www.youtube.com/watch?v=Edsxf_NBFrw)
+- [Html in one Video (3 hours)](https://www.youtube.com/watch?v=BsDoLVMnmZs)
+- [Css in one video (8 hours)](https://www.youtube.com/watch?v=Edsxf_NBFrw)
 - [HtML,CSS playlist ](https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
 - [How To Make Responsive Website Without Using Bootstrap In Simple Html & Css.](https://www.youtube.com/watch?v=q9VvA1Adpr0)
 
