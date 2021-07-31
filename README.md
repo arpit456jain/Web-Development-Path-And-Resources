@@ -60,5 +60,6 @@ Note : If you want to make your first pull request and your are confused You can
 - [CodesmashersBlog-In-Django](https://github.com/arpit456jain/CodesmashersBlog-In-Django)
 - [pixelvibe](https://github.com/ankitapuri/pixelvibe)
 
-
+## Best Resource to Learn PHP MYSQL For Backend Development 
+- https://youtube.com/playlist?list=PLwGdqUZWnOp1U4kemcU_vF9KQuHXlNxkb
 show some ❤️&nbsp; by giving ⭐ to this repo and Repos mentioned above
