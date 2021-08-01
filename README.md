@@ -37,6 +37,10 @@ Note : If you want to make your first pull request and your are confused You can
 - [Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=20575s)
 - [30 days of JavaScript](https://javascript30.com/)
 
+# Learn React
+- [React JS Course for Beginners by FreeCodeCamp](https://www.youtube.com/watch?v=nTeuhbP7wdE)
+- [React JS Tutorial for Beginners by Clever Programmer](https://www.youtube.com/watch?v=-cMqr9HpZ-Y)
+
 ## Best Resource to Learn PHP MYSQL For Backend Development 
 - [PHP MYSQL Tutorial In Hindi by Thapa Technical](https://youtube.com/playlist?list=PLwGdqUZWnOp1U4kemcU_vF9KQuHXlNxkb)
 
