@@ -47,11 +47,18 @@ Note : If you want to make your first pull request and your are confused You can
 - [Amazing Css effects](https://github.com/arpit456jain/Amazing-Css-Effects)
 
 ## CES Events website
-- [Wield the web](https://github.com/arpit456jain/Wield-The-Web)
-- [Debugger-King](https://github.com/arpit456jain/Debugger-King)
-- [CTF](https://github.com/arpit456jain/ctf_main)
-- [Chakravyuh](https://github.com/arpit456jain/Chakravyuh)
-- [Matrix](https://github.com/arpit456jain/CES)
+
+| Name | Description and source code |
+|---|---|
+| [Wield the web](https://wield-the-web.netlify.app/) | [source code](https://github.com/arpit456jain/Wield-The-Web) |
+| [Debugger-King](https://debugger-king.netlify.app/) |  [source code](https://github.com/arpit456jain/Debugger-King) |
+| [CTF](https://ces-ctf.netlify.app/) | [source code](https://github.com/arpit456jain/ctf_main) |
+| [Chakravyuh](https://arpit456jain.github.io/Chakravyuh/Chakravyuh2/)  |[source code](https://github.com/arpit456jain/Chakravyuh) |
+| [Matrix](https://arpit456jain.github.io/CES/Matrix/)  |  [source code](https://github.com/arpit456jain/CES) |
+
+  
+ 
+ 
 
 ## Flask related Projects
 - [CalculatorApp-In-Flask](https://github.com/arpit456jain/CalculatorApp-In-Flask)
