@@ -15,7 +15,9 @@ Then, You got here right!!
  - [Git And Github in one Video ](https://www.youtube.com/watch?v=gwWKnnCMQ5c&t=1657s)
  - [Git Tutorial: How to Upload your Projects to Git & GitHub](https://www.youtube.com/watch?v=G14WMD8Kg3U)
  - [Github Profile Readme (Markdown template) | Improve Your Github profiles](https://www.youtube.com/watch?v=LooNWF67jrk)
- - [Github Profile sample](https://github.com/arpit456jain/arpit456jain)
+ - [Github Profile ~ Arpit Jain](https://github.com/arpit456jain/arpit456jain)
+ - [Github Profile ~ Praveen Kumar](https://github.com/praveenscience/praveenscience)
+ - [E03: Yes, We're In Trouble when Merge Conflicts Occur! Let's resolve them Gracefully](https://www.youtube.com/watch?v=GaosMNyPKZc)
 
 Note : If you want to make your first pull request and your are confused You can make it on this repo . There is a file named contibutors.md , just add your name in that and make PR.
 
@@ -30,6 +32,7 @@ Note : If you want to make your first pull request and your are confused You can
 # Learn about Bootstrap for making website responsive
 - [Bootstrap Tutorial for beginners in Hindi](https://www.youtube.com/watch?v=wkSA9bfCmKU&list=PL0b6OzIxLPbz1cgxiH5KCBsyQij1HsPtG&index=1)
 - [Basics of Bootstrap in one video ](https://www.youtube.com/watch?v=QE5oQh63gGE)
+- [Bootstrap 5 Tutorial by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)
 
 # Learn JavaScript
 - [Basics of  Js](https://www.youtube.com/watch?v=cvvwkgp4HBg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL)
@@ -40,6 +43,7 @@ Note : If you want to make your first pull request and your are confused You can
 # Learn React
 - [React JS Course for Beginners by FreeCodeCamp](https://www.youtube.com/watch?v=nTeuhbP7wdE)
 - [React JS Tutorial for Beginners by Clever Programmer](https://www.youtube.com/watch?v=-cMqr9HpZ-Y)
+- [Kick Start React JS by Praveen](https://www.youtube.com/watch?v=jGlKc0tYaIc)
 
 ## Best Resource to Learn PHP MYSQL For Backend Development 
 - [PHP MYSQL Tutorial In Hindi by Thapa Technical](https://youtube.com/playlist?list=PLwGdqUZWnOp1U4kemcU_vF9KQuHXlNxkb)
@@ -61,9 +65,6 @@ Note : If you want to make your first pull request and your are confused You can
 | [Matrix](https://arpit456jain.github.io/CES/Matrix/)  | [hosted link](https://arpit456jain.github.io/CES/Matrix/) |  [source code](https://github.com/arpit456jain/CES) |
 | [CodeSmashers](https://www.code-smashers.ga/)  | [hosted link](https://www.code-smashers.ga/) |  [source code](https://github.com/prakharritik/Code-Smashers) |
 
-  
- 
- 
 
 ## Flask related Projects
 - [CalculatorApp-In-Flask](https://github.com/arpit456jain/CalculatorApp-In-Flask)
@@ -75,7 +76,4 @@ Note : If you want to make your first pull request and your are confused You can
 - [CodesmashersBlog-In-Django](https://github.com/arpit456jain/CodesmashersBlog-In-Django)
 - [pixelvibe](https://github.com/ankitapuri/pixelvibe)
 
-
-<br>
-
-show some ❤️&nbsp; by giving ⭐ to this repo and Repos mentioned above
+Show some ❤️&nbsp; by giving ⭐ to this repo and Repos mentioned above
