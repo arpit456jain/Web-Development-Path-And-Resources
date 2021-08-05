@@ -10,14 +10,18 @@ Do you want to make web d proejcts🤩
 
 Then, You got here right!!
 
-# The First thing you should learn is Git and Gtihub
+# The First thing you should learn is Git and GitHub
  - [Git and Github Code With Harry Detailed PlayList ](https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
  - [Git And Github in one Video ](https://www.youtube.com/watch?v=gwWKnnCMQ5c&t=1657s)
+ - [Git Tutorial for Beginners (English)](https://youtu.be/8JJ101D3knE)
  - [Git Tutorial: How to Upload your Projects to Git & GitHub](https://www.youtube.com/watch?v=G14WMD8Kg3U)
+ - [Git - the simple guide (Documentation/Cheatsheet)](https://rogerdudler.github.io/git-guide/)
+ - [Practice your Git skills in Visual and Interactive way](https://learngitbranching.js.org/)
  - [Github Profile Readme (Markdown template) | Improve Your Github profiles](https://www.youtube.com/watch?v=LooNWF67jrk)
  - [Github Profile ~ Arpit Jain](https://github.com/arpit456jain/arpit456jain)
  - [Github Profile ~ Praveen Kumar](https://github.com/praveenscience/praveenscience)
  - [E03: Yes, We're In Trouble when Merge Conflicts Occur! Let's resolve them Gracefully](https://www.youtube.com/watch?v=GaosMNyPKZc)
+ - [How to write Good 'commit' Messages](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
 
 Note : If you want to make your first pull request and your are confused You can make it on this repo . There is a file named contibutors.md , just add your name in that and make PR.
 
