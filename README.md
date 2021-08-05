@@ -10,7 +10,7 @@ Do you want to make web d proejcts🤩
 
 Then, You got here right!!
 
-# The First thing you should learn is Git and Gtihub
+# The First thing you should learn is Git and GitHub
  - [Git and Github Code With Harry Detailed PlayList ](https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
  - [Git And Github in one Video ](https://www.youtube.com/watch?v=gwWKnnCMQ5c&t=1657s)
  - [Git Tutorial for Beginners (English)](https://youtu.be/8JJ101D3knE)
