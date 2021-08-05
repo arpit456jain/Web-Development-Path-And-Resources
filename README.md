@@ -75,4 +75,5 @@ Note : If you want to make your first pull request and your are confused You can
 - [CodesmashersBlog-In-Django](https://github.com/arpit456jain/CodesmashersBlog-In-Django)
 - [pixelvibe](https://github.com/ankitapuri/pixelvibe)
 
+### [DSA-Path-And-Important-Questions](https://github.com/arpit456jain/DSA-Path-And-Important-Questions)
 Show some ❤️&nbsp; by giving <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> to this repo and Repos mentioned above
