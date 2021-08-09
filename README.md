@@ -51,6 +51,11 @@ Note : If you want to make your first pull request and your are confused You can
 ## Best Resource to Learn PHP MYSQL For Backend Development 
 - [PHP MYSQL Tutorial In Hindi by Thapa Technical](https://youtube.com/playlist?list=PLwGdqUZWnOp1U4kemcU_vF9KQuHXlNxkb)
 
+
+## Best NodeJs Resources
+- [Crash Course by Traversy Media] (https://www.youtube.com/watch?v=fBNz5xF-Kx4)
+- [NodeJS for Beginners by Codeevolution] (https://www.youtube.com/watch?v=CTxrpmY1At8&list=PLC3y8-rFHvwhco_O8PS1iS9xRrdVTvSIz)
+
 # some Important Repos
 ## Front end Related
 - [Cool Front End Templates](https://github.com/arpit456jain/Cool-Front-End_Templates)
