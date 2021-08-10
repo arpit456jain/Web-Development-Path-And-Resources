@@ -85,4 +85,8 @@ Note : If you want to make your first pull request and your are confused You can
 - [pixelvibe](https://github.com/ankitapuri/pixelvibe)
 
 ### Need help in [DSA-Path-And-Important-Questions](https://github.com/arpit456jain/DSA-Path-And-Important-Questions)
+## 💬Join Our CodeSmashers Community
+
+Join - https://discord.gg/gtYUZQSjTt
+
 Show some ❤️&nbsp; by giving <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> to this repo and Repos mentioned above
