@@ -58,9 +58,13 @@ Note : If you want to make your first pull request and your are confused You can
 
 # some Important Repos
 ## Front end Related
-- [Cool Front End Templates](https://github.com/arpit456jain/Cool-Front-End_Templates)
-- [Amazing Js projects](https://github.com/arpit456jain/Amazing-Js-Projects)
-- [Amazing Css effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+| Name | Website url | GitHub Repo |
+|---|---|---|
+|Cool Front End Templates|[click here](https://cool-front-end-templates.netlify.app/)|[click heer](https://github.com/arpit456jain/Cool-Front-End_Templates)|
+|Amazing Css effects|[click here](https://amazing-css-effects.netlify.app/)|[click here](https://github.com/arpit456jain/Amazing-Css-Effects)|
+|Amazing Js projects|[click here](https://amazing-js-projects.netlify.app/)|[click here](https://github.com/arpit456jain/Amazing-Js-Projects)|
+
+
 
 ## CES Events website
 
