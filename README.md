@@ -89,6 +89,24 @@ Note : If you want to make your first pull request and your are confused You can
 - [pixelvibe](https://github.com/ankitapuri/pixelvibe)
 
 ### Need help in [DSA-Path-And-Important-Questions](https://github.com/arpit456jain/DSA-Path-And-Important-Questions)
+
+<h2 align=center> ✨ Contributors </h2>
+Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** of any kind are welcome! 
+
+<table>
+	<tr>
+		 <td>
+  		<a href="https://github.com/arpit456jain/Web-Development-Path-And-Resources/graphs/contributors">
+  			<img src="https://contributors-img.web.app/image?repo=arpit456jain/Web-Development-Path-And-Resources" />
+  		</a>
+		</td>
+	</tr>
+</table>
+
+<hr>
+
+<h1 align=center>Happy Coding 👨‍💻 </h1>
+
 ## 💬Join Our CodeSmashers Community
 
 Join - https://discord.gg/gtYUZQSjTt
