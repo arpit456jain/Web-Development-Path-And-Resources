@@ -100,7 +100,7 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 	<tr>
 		 <td>
   		<a href="https://github.com/arpit456jain/Web-Development-Path-And-Resources/graphs/contributors">
-  			<img src="https://contributors-img.web.app/image?repo=arpit456jain/Web-Development-Path-And-Resources" />
+  			<img src="https://contributors-img.web.app/image?repo=arpit456jain/Web-Development-Path-And-resources" />
   		</a>
 		</td>
 	</tr>
