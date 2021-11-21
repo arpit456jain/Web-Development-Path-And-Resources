@@ -4,7 +4,7 @@ Are you looking for some good resources
 
 <p align="center"><img src="https://media.giphy.com/media/Uq4XZx6xm8bdVgrv9T/giphy.gif" width = 40%></p>
 
-Do you want to make web d proejcts🤩
+Do you want to make web d projects🤩
 
 <p align="center"><img src="https://media.giphy.com/media/3oEjI8vagntG7EDxgQ/giphy.gif" width = 40%></p>
 
@@ -63,7 +63,7 @@ Note : If you want to make your first pull request and your are confused You can
 ## Front end Related
 | Name | Website url | GitHub Repo |
 |---|---|---|
-|Cool Front End Templates|[click here](https://cool-front-end-templates.netlify.app/)|[click heer](https://github.com/arpit456jain/Cool-Front-End_Templates)|
+|Cool Front End Templates|[click here](https://cool-front-end-templates.netlify.app/)|[click here](https://github.com/arpit456jain/Cool-Front-End_Templates)|
 |Amazing Css effects|[click here](https://amazing-css-effects.netlify.app/)|[click here](https://github.com/arpit456jain/Amazing-Css-Effects)|
 |Amazing Js projects|[click here](https://amazing-js-projects.netlify.app/)|[click here](https://github.com/arpit456jain/Amazing-Js-Projects)|
 
