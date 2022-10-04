@@ -1,6 +1,6 @@
 # Web-Development-Path-And-Resources
 
-Are you looking for some good resources 
+Are you looking for some good Web-Dev resources ?
 
 <p align="center"><img src="https://media.giphy.com/media/Uq4XZx6xm8bdVgrv9T/giphy.gif" width = 40%></p>
 
