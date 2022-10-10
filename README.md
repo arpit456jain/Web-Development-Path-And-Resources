@@ -50,6 +50,10 @@ Note : If you want to make your first pull request and your are confused You can
 - [React JS Playlist by Codevolution](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=RDCMUC80PWRj_ZU8Zu0HSMNVwKWw&start_radio=1&rv=QFaFIcGhPoM&t=1)
 - [React JS Projects 2021 by Traversy Media](https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb)
 - [React JS Resources](https://reactresources.com/)
+- [React JS Tutorial by Josh W Comeau](https://www.joshwcomeau.com/)
+- [React JS Tutorial by Guru99](https://www.guru99.com/reactjs-tutorial.html)
+- [React JS Tutorial by Javatpoint](https://www.javatpoint.com/reactjs-tutorial)
+- [React JS Routing v6 guide](https://reactrouter.com/en/v6.3.0/getting-started/overview)
 
 # HTML EMAIL Resources
 - [Cerberus HTML EMAIL]( https://www.cerberusemail.com)
