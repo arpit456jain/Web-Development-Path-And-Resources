@@ -51,6 +51,12 @@ Note : If you want to make your first pull request and your are confused You can
 - [React JS Projects 2021 by Traversy Media](https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb)
 - [React JS Resources](https://reactresources.com/)
 
+# HTML EMAIL Resources
+- [Cerberus HTML EMAIL]( https://www.cerberusemail.com)
+- [Campaign Monitor](https://www.campaignmonitor.com/dev-resources/guides/coding-html-emails)
+- [MJML Article](https://mjml.io/getting-started/1)
+- [My Github Repo for HTML EMAIL]( https://github.com/Siddharth-Rai-06/HTML-EMAIL-Template.git)
+
 ## Best Resource to Learn PHP MYSQL For Backend Development 
 - [PHP MYSQL Tutorial In Hindi by Thapa Technical](https://youtube.com/playlist?list=PLwGdqUZWnOp1U4kemcU_vF9KQuHXlNxkb)
 
