@@ -31,6 +31,7 @@ Note : If you want to make your first pull request and your are confused You can
 - [Code with Harry Full playlist for Web d ](https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
 - [How To Make Responsive Website Without Using Bootstrap In Simple Html & Css.](https://www.youtube.com/watch?v=q9VvA1Adpr0)
 - [Learn HTML5 and CSS3 From Scratch by FreeCodeCamp](https://www.youtube.com/watch?v=mU6anWqZJcc)
+- [Build a Complete Personal Portfolio Website Using Only HTML And CSS ](https://www.youtube.com/watch?v=lgeoAUvoRJU)
 
 # Learn about Bootstrap for making website responsive
 - [Bootstrap Tutorial for beginners in Hindi](https://www.youtube.com/watch?v=wkSA9bfCmKU&list=PL0b6OzIxLPbz1cgxiH5KCBsyQij1HsPtG&index=1)
@@ -42,6 +43,7 @@ Note : If you want to make your first pull request and your are confused You can
 - [Js in one video with Projects in JS](https://www.youtube.com/watch?v=hKB-YGF14SY)
 - [Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=20575s)
 - [30 days of JavaScript](https://javascript30.com/)
+- [JavaScript Project Beginners to Advanced](https://www.youtube.com/watch?v=3PHXvlpOkf4)
 
 # Learn React
 - [React JS Course for Beginners by FreeCodeCamp](https://www.youtube.com/watch?v=nTeuhbP7wdE)
