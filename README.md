@@ -76,6 +76,7 @@ Note : If you want to make your first pull request and your are confused You can
 |Cool Front End Templates|[click here](https://cool-front-end-templates.netlify.app/)|[click here](https://github.com/arpit456jain/Cool-Front-End_Templates)|
 |Amazing Css effects|[click here](https://amazing-css-effects.netlify.app/)|[click here](https://github.com/arpit456jain/Amazing-Css-Effects)|
 |Amazing Js projects|[click here](https://amazing-js-projects.netlify.app/)|[click here](https://github.com/arpit456jain/Amazing-Js-Projects)|
+|Frontend Developer Roadmap|[click here](https://www.scaler.com/blog/front-end-developer-roadmap/)|[click here](https://github.com/orgs/scaleracademy/repositories)|
 
 
 
